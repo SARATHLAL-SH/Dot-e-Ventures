@@ -1,0 +1,32 @@
+.homepage {
+  margin-top: 20px;
+  text-align: center;
+  text-shadow: 2px 5px 6px rgb(166, 165, 165);
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.container {
+  width: 350px;
+  background: linear-gradient(to left, rgb(28, 28, 57), rgb(98, 98, 120));
+  padding: 10px 10px 20px 10px;
+  margin: 20px;
+  box-shadow: 2px 8px 9px rgb(54, 54, 54);
+}
+.container:hover {
+  opacity: 0.5;
+}
+.imgcontainer {
+  width: 100%;
+}
+.ImageHtml {
+  width: 100%;
+  height: 250px;
+}
+.description {
+  color: white;
+  text-shadow: 2px 4px 6px black;
+}

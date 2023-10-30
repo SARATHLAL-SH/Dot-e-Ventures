@@ -1,0 +1,42 @@
+.quiz_section {
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.quiz_section h2 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.quiz_section p {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.quiz_section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.quiz_section li {
+    margin-bottom: 10px;
+}
+
+.quiz_section input {
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+.quiz_section label {
+    font-size: 16px;
+}
+
+.quiz_section button {
+    margin-top: 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin-right: 20px;
+}
