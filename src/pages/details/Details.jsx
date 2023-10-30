@@ -23,7 +23,7 @@ function Details() {
               <h1 className="detaiHead">{details.heading}</h1>
             </div>
             <div className="detaiVideo">
-              <YouTube videoId={details.videoId} opts={opts} />
+              <YouTube className="youtubevideo" videoId={details.videoId} opts={opts} />
             </div>
             <div className="detaisdesCont">
               <h1 className="DetaislSubHead">Description</h1>
