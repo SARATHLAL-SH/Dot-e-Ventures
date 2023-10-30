@@ -39,4 +39,11 @@
     .detailContainer {
         width: 100%;
     }
+    .detaiVideo{
+        margin: auto;
+        width: 90%;
+    }
+    .youtubevideo{
+        width: 100%;
+    }
 }
